@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Make Appointment</name>
+   <name>input_Password_password</name>
    <tag></tag>
-   <elementGuidId>6e5c22a5-0496-4394-912f-9168b0eb63c3</elementGuidId>
+   <elementGuidId>d90a24ef-9ca4-441f-b78f-b0924a787ede</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=“btn-make-appointment”]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#btn-make-appointment</value>
+         <value>#txt-password</value>
       </entry>
    </selectorCollection>
    <selectorMethod>CSS</selectorMethod>
